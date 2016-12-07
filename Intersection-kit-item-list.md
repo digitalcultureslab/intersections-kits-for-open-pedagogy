@@ -1,7 +1,7 @@
 Intersection - Kit Item List (Includes)
 
 - Arduino Uno
-- Batter Patch Lead
+- Battery Patch Lead
 - 2 Red LED
 - 2 Yellow LED
 - 2 Green LED
@@ -28,8 +28,7 @@ Intersection - Kit Item List (Includes)
 
 - Code guide for Arduino
 
-- Maps of New West / Coquitlam
+- Maps of New West / Coquitlam - on boards
 - Road templates (paper strips)
 - two unrelated books
 - two unrelated songs (genre types)
-- Baseball and Bat (mini)
